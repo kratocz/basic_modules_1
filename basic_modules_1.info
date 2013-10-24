@@ -19,6 +19,7 @@ dependencies[] = date_api
 dependencies[] = dblog
 dependencies[] = devel
 dependencies[] = entity
+dependencies[] = entityreference
 dependencies[] = entity_token
 dependencies[] = features
 dependencies[] = field_group
